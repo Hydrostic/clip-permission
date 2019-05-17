@@ -1,0 +1,12 @@
+[
+  {
+    "name": "CAN_LOGIN",
+    "description": "登录权限（黑名单中用户不拥有该权限）",
+    "alias": "auth.common.login"
+  },
+  {
+    "name": "CAN_CREATE_NEW_COMMENT",
+    "description": " 评论发布权限",
+    "alias": "comment.common.publish"
+  }
+]
